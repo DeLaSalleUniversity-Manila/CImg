@@ -22,3 +22,7 @@ The **CImg Library** is a **small**, **open-source**, and **modern C++ toolkit**
 > **CImg** stands for **Cool Image** : It is _easy to use_, _efficient_ and is intended to be a very pleasant toolbox to design image processing algorithms in C++. Due to its generic conception, it can cover a wide range of image processing applications.
 
 ------------------
+
+## LBYEC72 Fork
+
+* Clone (or download) CImg repository. (https://github.com/DeLaSalleUniversity-Manila/CImg)
